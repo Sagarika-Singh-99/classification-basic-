@@ -7,4 +7,6 @@ DictVectorizer is also used here for pre-processing of data.
 
 Libraries used: Scikit-learn
 
+Scikit-learn: DictVectorizer, DecisionTreeClassifier, LinearSVC, KNeighborsClassifier, cross_val_score, StratifiedKFold, ConfusionMatrixDisplay. 
+
 
